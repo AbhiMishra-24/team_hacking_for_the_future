@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/AbhiMishra-24/team_hacking_for_the_future/static/css/main.5a164a6a.css",
+    "main.js": "/AbhiMishra-24/team_hacking_for_the_future/static/js/main.1ba98c58.js",
+    "static/media/yoya (3).jpg": "/AbhiMishra-24/team_hacking_for_the_future/static/media/yoya (3).58e7a5025a3515ed36e1.jpg",
+    "index.html": "/AbhiMishra-24/team_hacking_for_the_future/index.html",
+    "main.5a164a6a.css.map": "/AbhiMishra-24/team_hacking_for_the_future/static/css/main.5a164a6a.css.map",
+    "main.1ba98c58.js.map": "/AbhiMishra-24/team_hacking_for_the_future/static/js/main.1ba98c58.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a164a6a.css",
+    "static/js/main.1ba98c58.js"
+  ]
+}
